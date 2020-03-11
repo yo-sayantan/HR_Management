@@ -1,0 +1,6 @@
+The code is written in Python 3.
+The models have been trained with accuracy 97%.
+The project is still under construction.
+The files uploaded are JUPYTER Notebook Files (.ipynb).
+
+Thank you.
